@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "revolt.js": "^6.0.3",
+    "revolthandler.js": "^0.0.5",
+    "yarn": "^1.22.19"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
